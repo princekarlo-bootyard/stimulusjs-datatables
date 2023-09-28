@@ -8,13 +8,13 @@
     "stimulus",
     "turbolinks"
   ],
-  "homepage": "https://github.com/jgorman/rails-datatables#readme",
+  "homepage": "https://github.com/princekarlo-bootyard/stimulusjs-datatables#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jgorman/rails-datatables.git"
+    "url": "https://github.com/princekarlo-bootyard/stimulusjs-datatables.git"
   },
   "bugs": {
-    "url": "https://github.com/jgorman/rails-datatables/issues"
+    "url": "https://github.com/princekarlo-bootyard/stimulusjs-datatables/issues"
   },
   "author": {
     "name": "John Gorman",
@@ -28,8 +28,8 @@
   },
   "main": "dist/index.js",
   "dependencies": {
-    "datatables.net": "^1.10.20",
-    "stimulus": "^1.1.1"
+    "@hotwired/stimulus": "^3.2.2",
+    "datatables.net": "^1.10.20"
   },
   "devDependencies": {
     "@babel/cli": "^7.6.4",
